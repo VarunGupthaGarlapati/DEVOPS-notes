@@ -1,0 +1,29 @@
+TASK-1: 
+lets assume that you have 2 folders (folder-1 & folder-2)
+folder-1 has some files and folders
+folder-2 is an empty folder
+
+
+now how to copy the all the files and folders from folder-1 to folder-2
+
+
+
+
+TASK-2:
+lets assume that you have 5 files. 
+file1 has some data
+remaining 4 files are empty
+Now how to copy the data from one file to remaining 4 files at a time
+
+
+
+
+TASK-3: 
+lets assume that you have 4 folders.
+folder-1 has some files
+remaining 4 folders are empty
+now how to copy the files from folder-1 to remaining 4 folders
+
+
+TASK-4: 
+how to rename a file (or) folder
